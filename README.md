@@ -8,6 +8,6 @@ Team member names:
 * Dylan Winn
 * Rico Sandoval
 * Yad Galaly
-*
+* Jack Buzard
 
-Selected software system: TBD
+Selected software system: MLDS
