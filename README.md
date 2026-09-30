@@ -7,7 +7,7 @@ Team member names:
 * Fernando Gonzalez
 * Dylan Winn
 * Rico Sandoval
-*
+* Yad Galaly
 *
 
 Selected software system: TBD
