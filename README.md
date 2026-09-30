@@ -1,4 +1,13 @@
 # CS250-F26-Group01
 
-Max Conaway  
-Fernando Gonzalez
+Group number: 1
+
+Team member names:
+* Max Conaway
+* Fernando Gonzalez
+* Dylan Winn
+* 
+*
+*
+
+Selected software system: TBD
