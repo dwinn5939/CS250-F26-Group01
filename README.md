@@ -6,7 +6,7 @@ Team member names:
 * Max Conaway
 * Fernando Gonzalez
 * Dylan Winn
-* 
+* Rico Sandoval
 *
 *
 
